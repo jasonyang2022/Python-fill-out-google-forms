@@ -6,10 +6,10 @@ import time
 '''
 
 #指定你的chrome路徑
-chromePath = '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome'  
-email = 'titus.leo616@gmail.com'
-name = '郭彥明'
-student_id = '16'
+chromePath = 'C:\Program Files (x86)\Google\Chrome\Application\chrome.exe'  
+email = 'assa156321@gmail.com'
+name = '楊智傑'
+student_id = '19'
 note = '' #備註
 
 # ---- 下面不需修改
